@@ -15,7 +15,7 @@ KEYWORD :
     4.) Track Identity creation and destruction
 
 
-In this tutorial I have provide 2 GITHUB link : 
+In this tutorial I have provide 2 GITHUB link : \
 1.) Original DeepSORT algorithms : https://github.com/nwojke/deep_sort \
 2.) YOLOV5 with DeepSORT : https://github.com/lanmengyiyu/yolov5-deepmar \
 3.) DeepSORT with pytorch : https://github.com/mikel-brostrom/Yolov5_DeepSort_OSNet
