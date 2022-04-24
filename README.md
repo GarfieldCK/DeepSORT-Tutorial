@@ -1,11 +1,11 @@
 # DeepSORT-Tutorial
-This repository was to recap the object tracking algorithms by using DeepSORT algotithms
+This repository was to recap the object tracking algorithms by using DeepSORT algotithms \
 
-KEYWORD : 
-1.) Optical flow and Mean Shift # Traditional tracking algorithms
-    1.1 ) Mean Shift --> Searching in the neiborhood area first
-    1.2 ) Optical flow --> Motion Vector (LUCAS KANEDA)
-2.) Kalmann Filter
+KEYWORD : \
+1.) Optical flow and Mean Shift # Traditional tracking algorithms \
+    1.1 ) Mean Shift --> Searching in the neiborhood area first \
+    1.2 ) Optical flow --> Motion Vector (LUCAS KANEDA) \
+2.) Kalmann Filter \
 
 3.) Simple Online Realtime Tracking(SORT) : 
 
